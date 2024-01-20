@@ -1,0 +1,42 @@
+﻿  Main.cpp
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(90,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(90,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(91,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(91,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(92,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(92,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(93,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(93,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(94,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(94,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(313,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(319,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(327,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(331,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(337,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(341,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(346,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(352,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(356,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(361,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(365,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(377,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(377,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(386,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(386,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(392,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(392,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(402,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(402,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(411,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(411,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(419,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(419,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(425,97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(425,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(430,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(430,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(437,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(437,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+L:\C++ Projects\Minesweeper\Minesweeper\Main.cpp(37): warning C4715: 'LoadBoard': not all control paths return a value
+  Minesweeper.vcxproj -> L:\C++ Projects\Minesweeper\x64\Debug\Minesweeper.exe
